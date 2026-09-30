@@ -1,0 +1,28 @@
+# Executables
+network_monitor_server
+network_monitor_client
+
+# Build directories
+build/
+bin/
+lib/
+out/
+
+# Log files
+logs/*.log
+!logs/.gitkeep
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Compiled object and dependency files
+*.o
+*.obj
+*.so
+*.dylib
+*.a
